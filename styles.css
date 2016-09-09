@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+body {
+    text-align: center;
+    font-family: "Arial";
+}
